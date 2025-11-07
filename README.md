@@ -1,8 +1,5 @@
 # Sprint11_project
-## ⛽ **Oil Well Investment Data Analysis**  
-📁 [`Sprint11_project`](https://github.com/jpcampos04/Sprint11_project.git)
 
-```markdown
 # ⛽ Oil Well Investment Data Analysis
 
 ## 🧠 Description
